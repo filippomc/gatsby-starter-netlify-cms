@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Filippo è bello
 image: /img/home-jumbotron.jpg
 heading: Cambiato Filippo
 subheading: Support sustainable farming while enjoying a cup
